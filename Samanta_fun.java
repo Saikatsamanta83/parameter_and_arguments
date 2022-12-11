@@ -8,7 +8,7 @@ public class Samanta_fun {
     }
     static void intu_number(int x,int y){
         int a=x*y;
-        System.out.println(a);
+        System.out.println(a); 
 
     }
     
